@@ -8,7 +8,7 @@ This database is based on the recordings of 30 subjects within an age bracket of
 
 ##The tidy data file
 
-The data is contained in a text file, `tidyData.txt`. If this file does not exist, it is created by the R script `gettingcleaningproject.R`. It consists of a header row and 180 data rows, each containing 68 values, where all the fields are space-delimited.
+The data is contained in a text file, `tidyData.txt`. If this file does not exist, it is created by the R script `run_analysis.R`. It consists of a header row and 180 data rows, each containing 68 values, where all the fields are space-delimited.
 
 The file in question presents the requisite variables (listed below) in a narrow form tidy data format. Both the wide and narrow forms can be considered to be 'tidy' depending upon the application in mind. In this matter, we draw the attention of the reader to pp. 15 of Hadley Wickham's paper on the subject [here](http://vita.had.co.nz/papers/tidy-data.pdf).
 

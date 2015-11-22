@@ -28,7 +28,7 @@ Of course, its `tidiness' will ultimately depend upon the kind of analysis that 
  * `README.md`:  
     This file.
 
- * `gettingcleaningproject.R`:  
+ * `run_analysis.R`:  
 
  
 
