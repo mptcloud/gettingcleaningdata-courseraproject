@@ -10,7 +10,7 @@ This database is based on the recordings of 30 subjects within an age bracket of
 
 ### Files in this repository:
 
- * `tidyData.txt`:  The cleaned and simplified data set produced in R. If this file does not exist, it is created by the R script `gettingcleaningproject.R`. Readers wishing to view this data set can do so by using the following appropriate command in R:
+ * `tidyData.txt`:  The cleaned and simplified data set produced in R. If this file does not exist, it is created by the R script `run_analysis.R`. Readers wishing to view this data set can do so by using the following appropriate command in R:
 
  > tidyData <- read.table("tidyData.txt", header = TRUE)
 
