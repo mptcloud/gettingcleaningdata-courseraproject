@@ -1,5 +1,3 @@
-<p><markdown>
-
 ## Human activity recognition using Smartphones dataset (simplified)
 
 ## Author: Hari A R
@@ -52,6 +50,3 @@ Of course, its `tidiness' will ultimately depend upon the kind of analysis that 
 deviations obtained in step 3.
 
     7. This new summary dataset is written to `tidyData.txt`
-
- 
-</markdown></p>

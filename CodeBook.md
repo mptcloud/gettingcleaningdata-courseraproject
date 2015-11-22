@@ -1,5 +1,3 @@
-<p><markdown>
-
 ## Human activity recognition using Smartphones dataset (simplified)
 
 ## Author: Hari A R
@@ -56,8 +54,3 @@ The values for each coordinate:
 `(axis of measurement, if one)`:
 
 * `xAxis`, `yAxis`, or `zAxis`: direction of the axial signals.
-
-
-
- 
-</markdown></p>
