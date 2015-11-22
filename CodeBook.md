@@ -25,7 +25,7 @@ The file in question presents the requisite variables (listed below) in a narrow
 
 The remaining 66 variables represent the averages/standard deviations of the normalized observations recorded by the accelerometers/gyroscopes of the smartphones. The variable names have five levels of descriptors; these descriptors follow the format outlined below:
 
- - (domain)_ (observation) _(statistic)_(axis of measurement, if there is one)
+ - (domain)_ (observation)_ (statistic)_ (axis of measurement, if there is one)
 
 The values for each coordinate:
 
