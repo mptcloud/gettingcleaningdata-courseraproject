@@ -46,7 +46,7 @@ Of course, its `tidiness' will ultimately depend upon the kind of analysis that 
     
     5. Slightly modifies the variable names of the original data set for readability.  (See `CodeBook.md`)
 
-6. Creates a new summary data set, grouped by subject and activity. This new data set reports the averages of all reported means and standard 
+	6. Creates a new summary data set, grouped by subject and activity. This new data set reports the averages of all reported means and standard 
 deviations obtained in step 3.
 
     7. This new summary dataset is written to `tidyData.txt`
